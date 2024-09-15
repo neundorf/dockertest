@@ -383,4 +383,3 @@ RUN groupadd -g 44 host-video && groupadd -g 109 host-render && useradd -d /home
 
 # Switch to our unprivileged user account
 USER user
-
